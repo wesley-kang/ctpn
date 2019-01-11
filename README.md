@@ -3,6 +3,8 @@
 #### 项目介绍
 使用tensorflow对文字检测网络(Connectionist Text Proposal Network)的复现，代码简单易懂，适合初学者学习
 
+if you are in china ,you can visit https://gitee.com/hengk/ctpn.
+
 #### 软件架构
 
 
